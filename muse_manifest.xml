@@ -1,0 +1,75 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="gca.com" resolutions="1x" timestamp="1483035701218">
+  <folder name="css">
+    <file name="site_global.css" crc="68857643"/>
+    <file name="master_a-master.css" crc="199581093" ref="research:links:courses:index:resources:lab-members:publications"/>
+    <file name="research.css" crc="187960283" ref="research"/>
+    <file name="links.css" crc="4196339588" ref="links"/>
+    <file name="courses.css" crc="3885666374" ref="courses"/>
+    <file name="index.css" crc="42263406" ref="index"/>
+    <file name="resources.css" crc="346413668" ref="resources"/>
+    <file name="lab-members.css" crc="4174528744" ref="lab-members"/>
+    <file name="publications.css" crc="189618608" ref="publications"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:courses:lab-members:publications:links:resources"/>
+    <file name="museutils.js" crc="275725342" ref="index:research:courses:lab-members:publications:links:resources"/>
+    <file name="pie.js" crc="3827607177" ref="index:research:courses:lab-members:publications:links:resources"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:research:courses:lab-members:publications:links:resources"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:research:courses:lab-members:publications:links:resources"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:research:courses:lab-members:publications:links:resources"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3879086630" ref="index"/>
+    <file name="unnamed-1.jpg" crc="3900798740" seo="true" ref="index"/>
+    <file name="pasted svg 26471x34.svg" crc="3998042969" ref="index"/>
+    <file name="pasted svg 26471x34_poster_.png" crc="4135120239" ref="index"/>
+    <file name="pasted svg 44x50.svg" crc="352341995" ref="index:research:courses:lab-members:publications:links:resources"/>
+    <file name="pasted svg 44x50_poster_.png" crc="4151268566" ref="index"/>
+    <file name="pasted svg 369123x101.svg" crc="244920316" ref="index"/>
+    <file name="pasted svg 369123x101_poster_.png" crc="3958671783" ref="index"/>
+    <file name="originlife-1.jpg" crc="103201645" seo="true" ref="index"/>
+    <file name="originlife.jpg" crc="15761957" seo="true" ref="research"/>
+    <file name="shapeimage_1.jpg" crc="4009317968" seo="true" ref="research"/>
+    <file name="bacteria dapi.jpg" crc="4160699131" seo="true" ref="research"/>
+    <file name="pathways.gif" crc="3911856414" seo="true" ref="research"/>
+    <file name="ironwave.jpg" crc="8012371" seo="true" ref="research"/>
+    <file name="fingerprinting2.jpg" crc="185718897" seo="true" ref="research"/>
+    <file name="f1large.jpg" crc="4156875843" seo="true" ref="research"/>
+    <file name="nekochas.gif" crc="3953633975" seo="true" ref="research"/>
+    <file name="network.jpg" crc="3981339715" seo="true" ref="courses"/>
+    <file name="books.png" crc="4151754773" seo="true" ref="courses"/>
+    <file name="caetano.jpg" crc="123096964" seo="true" ref="lab-members"/>
+    <file name="mittenthal.jpg" crc="3778236501" seo="true" ref="lab-members"/>
+    <file name="aziz.jpg" crc="4105347740" seo="true" ref="lab-members"/>
+    <file name="minhas.jpg" crc="396642271" seo="true" ref="lab-members"/>
+    <file name="mughal.jpg" crc="350176452" seo="true" ref="lab-members"/>
+    <file name="nasir.jpg" crc="3764158019" seo="true" ref="lab-members"/>
+    <file name="apfelstadt.jpg" crc="3766294295" seo="true" ref="lab-members"/>
+    <file name="bukhari.jpg" crc="328525808" seo="true" ref="lab-members"/>
+    <file name="freymouth.jpg" crc="505356461" seo="true" ref="lab-members"/>
+    <file name="harish.jpg" crc="134020984" seo="true" ref="lab-members"/>
+    <file name="hs_kim.jpg" crc="4007071488" seo="true" ref="lab-members"/>
+    <file name="km_kim.jpg" crc="4130744024" seo="true" ref="lab-members"/>
+    <file name="knudsen.jpg" crc="4283829103" seo="true" ref="lab-members"/>
+    <file name="schlosberg.jpg" crc="3859245835" seo="true" ref="lab-members"/>
+    <file name="sun.jpg" crc="231070670" seo="true" ref="lab-members"/>
+    <file name="tal.jpg" crc="3781057875" seo="true" ref="lab-members"/>
+    <file name="wang.jpg" crc="416387924" seo="true" ref="lab-members"/>
+    <file name="yafremava.jpg" crc="132035207" seo="true" ref="lab-members"/>
+    <file name="zhang.jpg" crc="3913066040" seo="true" ref="lab-members"/>
+    <file name="glory.gif" crc="4146234043" seo="true" ref="links"/>
+    <file name="pasted svg 174972x63.svg" crc="3993970686" ref="resources"/>
+    <file name="pasted svg 174972x63_poster_.png" crc="3836543404" ref="resources"/>
+    <file name="pasted svg 141754x182.svg" crc="182755495" ref="resources"/>
+    <file name="pasted svg 141754x182_poster_.png" crc="398493344" ref="resources"/>
+    <file name="pasted svg 250977x153.svg" crc="364711683" ref="resources"/>
+    <file name="pasted svg 250977x153_poster_.png" crc="4160593966" ref="resources"/>
+  </folder>
+  <file name="index.html" crc="4016787227" seo="true" mt="1483035651295" redirect="true"/>
+  <file name="research.html" crc="3909957884" seo="true" mt="1483034449042" redirect="true"/>
+  <file name="courses.html" crc="470917826" seo="true" mt="1483034449042" redirect="true"/>
+  <file name="lab-members.html" crc="116124168" seo="true" mt="1483034449042" redirect="true"/>
+  <file name="publications.html" crc="4146498743" seo="true" mt="1483034449042" redirect="true"/>
+  <file name="links.html" crc="4033836667" seo="true" mt="1483034449042" redirect="true"/>
+  <file name="resources.html" crc="4003710715" seo="true" mt="1483034449042" redirect="true"/>
+</manifest>
