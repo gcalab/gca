@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001C;
-	background-color: #35D250;
+	color: #000002;
+	background-color: #84E36E;
 }
 
 .html
@@ -67,8 +67,8 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-	line-height: 13px;
 	color: #000000;
+	line-height: 13px;
 	font-size: 11px;
 	left: -1px;
 	margin-top: 1px;

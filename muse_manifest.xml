@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="gcalab.github.io" resolutions="1x" timestamp="1483129732584">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="gcalab.github.io" resolutions="1x" timestamp="1483130217923">
   <folder name="css">
-    <file name="site_global.css" crc="68857643"/>
-    <file name="master_a-master.css" crc="3837146013" ref="resources:publications:research:links:courses:lab-members:index"/>
-    <file name="resources.css" crc="4179431467" ref="resources"/>
-    <file name="publications.css" crc="3940746256" ref="publications"/>
-    <file name="research.css" crc="385038730" ref="research"/>
-    <file name="links.css" crc="3877552877" ref="links"/>
-    <file name="courses.css" crc="470976266" ref="courses"/>
-    <file name="lab-members.css" crc="4140084305" ref="lab-members"/>
-    <file name="index.css" crc="473289296" ref="index"/>
+    <file name="site_global.css" crc="4003183082"/>
+    <file name="master_a-master.css" crc="199581093" ref="links:courses:resources:lab-members:index:research:publications"/>
+    <file name="links.css" crc="4196339588" ref="links"/>
+    <file name="courses.css" crc="3885666374" ref="courses"/>
+    <file name="resources.css" crc="346413668" ref="resources"/>
+    <file name="lab-members.css" crc="4174528744" ref="lab-members"/>
+    <file name="index.css" crc="42263406" ref="index"/>
+    <file name="research.css" crc="187960283" ref="research"/>
+    <file name="publications.css" crc="3824086373" ref="publications"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:courses:lab-members:publications:links:resources"/>
