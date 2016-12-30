@@ -1,7 +1,7 @@
 .version.resources /* version checker */
 {
-	color: #000014;
-	background-color: #A5DA64;
+	color: #0000F9;
+	background-color: #1D102B;
 }
 
 .html
@@ -518,10 +518,10 @@
 	width: 640px;
 	min-height: 34px;
 	background-color: transparent;
-	color: #14988B;
 	line-height: 31px;
 	text-align: center;
 	font-size: 26px;
+	color: #14988B;
 	font-weight: bold;
 	margin-left: 20px;
 	position: relative;
@@ -547,9 +547,9 @@
 	width: 451px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #000000;
 	text-decoration: none;
 	line-height: 14px;
+	color: #000000;
 	font-size: 12px;
 	font-weight: bold;
 	position: relative;
@@ -714,8 +714,8 @@
 	width: 163px;
 	min-height: 323px;
 	background-color: transparent;
-	color: #000000;
 	text-decoration: none;
+	color: #000000;
 	position: relative;
 	margin-right: -10000px;
 	left: 472px;

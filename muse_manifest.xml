@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="gca.com" resolutions="1x" timestamp="1483035701218">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="gcalab.github.io" resolutions="1x" timestamp="1483129732584">
   <folder name="css">
     <file name="site_global.css" crc="68857643"/>
-    <file name="master_a-master.css" crc="199581093" ref="research:links:courses:index:resources:lab-members:publications"/>
-    <file name="research.css" crc="187960283" ref="research"/>
-    <file name="links.css" crc="4196339588" ref="links"/>
-    <file name="courses.css" crc="3885666374" ref="courses"/>
-    <file name="index.css" crc="42263406" ref="index"/>
-    <file name="resources.css" crc="346413668" ref="resources"/>
-    <file name="lab-members.css" crc="4174528744" ref="lab-members"/>
-    <file name="publications.css" crc="189618608" ref="publications"/>
+    <file name="master_a-master.css" crc="3837146013" ref="resources:publications:research:links:courses:lab-members:index"/>
+    <file name="resources.css" crc="4179431467" ref="resources"/>
+    <file name="publications.css" crc="3940746256" ref="publications"/>
+    <file name="research.css" crc="385038730" ref="research"/>
+    <file name="links.css" crc="3877552877" ref="links"/>
+    <file name="courses.css" crc="470976266" ref="courses"/>
+    <file name="lab-members.css" crc="4140084305" ref="lab-members"/>
+    <file name="index.css" crc="473289296" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:courses:lab-members:publications:links:resources"/>
@@ -57,6 +57,14 @@
     <file name="wang.jpg" crc="416387924" seo="true" ref="lab-members"/>
     <file name="yafremava.jpg" crc="132035207" seo="true" ref="lab-members"/>
     <file name="zhang.jpg" crc="3913066040" seo="true" ref="lab-members"/>
+    <file name="image9.jpg" crc="3782769630" seo="true" ref="publications"/>
+    <file name="image8.jpg" crc="3877848168" seo="true" ref="publications"/>
+    <file name="image7.jpg" crc="22010682" seo="true" ref="publications"/>
+    <file name="image6.jpg" crc="4127007136" seo="true" ref="publications"/>
+    <file name="image5.jpg" crc="332550196" seo="true" ref="publications"/>
+    <file name="image4.jpg" crc="89981191" seo="true" ref="publications"/>
+    <file name="image3.jpg" crc="184782121" seo="true" ref="publications"/>
+    <file name="image2.jpg" crc="275283521" seo="true" ref="publications"/>
     <file name="glory.gif" crc="4146234043" seo="true" ref="links"/>
     <file name="pasted svg 174972x63.svg" crc="3993970686" ref="resources"/>
     <file name="pasted svg 174972x63_poster_.png" crc="3836543404" ref="resources"/>
@@ -65,11 +73,11 @@
     <file name="pasted svg 250977x153.svg" crc="364711683" ref="resources"/>
     <file name="pasted svg 250977x153_poster_.png" crc="4160593966" ref="resources"/>
   </folder>
-  <file name="index.html" crc="4016787227" seo="true" mt="1483035651295" redirect="true"/>
+  <file name="index.html" crc="241052018" seo="true" mt="1483129686828" redirect="true"/>
   <file name="research.html" crc="3909957884" seo="true" mt="1483034449042" redirect="true"/>
   <file name="courses.html" crc="470917826" seo="true" mt="1483034449042" redirect="true"/>
   <file name="lab-members.html" crc="116124168" seo="true" mt="1483034449042" redirect="true"/>
-  <file name="publications.html" crc="4146498743" seo="true" mt="1483034449042" redirect="true"/>
+  <file name="publications.html" crc="3868294314" seo="true" mt="1483129179684" redirect="true"/>
   <file name="links.html" crc="4033836667" seo="true" mt="1483034449042" redirect="true"/>
   <file name="resources.html" crc="4003710715" seo="true" mt="1483034449042" redirect="true"/>
 </manifest>

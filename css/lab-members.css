@@ -1,7 +1,7 @@
 .version.lab_members /* version checker */
 {
-	color: #0000F8;
-	background-color: #D240E8;
+	color: #0000F6;
+	background-color: #C4AC51;
 }
 
 .html
@@ -517,10 +517,10 @@
 	width: 639px;
 	min-height: 34px;
 	background-color: transparent;
-	color: #14988B;
 	line-height: 31px;
 	text-align: center;
 	font-size: 26px;
+	color: #14988B;
 	font-weight: bold;
 	margin-left: 20px;
 	position: relative;
