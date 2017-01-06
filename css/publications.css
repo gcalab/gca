@@ -1,7 +1,7 @@
 .version.publications /* version checker */
 {
-	color: #000001;
-	background-color: #3F0369;
+	color: #0000ED;
+	background-color: #649AB8;
 }
 
 .html
@@ -79,34 +79,34 @@
 	margin-left: -266px;
 }
 
-#u137
+#u1394
 {
 	width: 74px;
 	min-height: 50px;
 	margin-right: -10000px;
 }
 
-#u138
+#u1395
 {
 	width: 74px;
 	padding-bottom: 31px;
 }
 
-#u138:hover
+#u1395:hover
 {
 	width: 74px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u138.MuseMenuActive
+#u1395.MuseMenuActive
 {
 	width: 74px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u139-4
+#u1396-4
 {
 	width: 66px;
 	min-height: 19px;
@@ -115,7 +115,7 @@
 	left: 4px;
 }
 
-#u138:hover #u139-4
+#u1395:hover #u1396-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -124,7 +124,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u138:active #u139-4
+#u1395:active #u1396-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -133,7 +133,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u138.MuseMenuActive #u139-4
+#u1395.MuseMenuActive #u1396-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -532,10 +532,10 @@
 	width: 639px;
 	min-height: 34px;
 	background-color: transparent;
+	line-height: 31px;
 	color: #14988B;
 	text-align: center;
 	font-size: 26px;
-	line-height: 31px;
 	font-weight: bold;
 	margin-left: 20px;
 	margin-top: 9px;
@@ -548,10 +548,10 @@
 	width: 639px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #000000;
+	line-height: 19px;
 	text-decoration: none;
 	font-size: 16px;
-	line-height: 19px;
+	color: #000000;
 	font-weight: bold;
 	margin-left: 21px;
 	position: relative;
