@@ -1,7 +1,7 @@
 .version.resources /* version checker */
 {
-	color: #000014;
-	background-color: #A5DA64;
+	color: #00000D;
+	background-color: #1C08AA;
 }
 
 .html
@@ -519,9 +519,9 @@
 	min-height: 34px;
 	background-color: transparent;
 	color: #14988B;
-	line-height: 31px;
 	text-align: center;
 	font-size: 26px;
+	line-height: 31px;
 	font-weight: bold;
 	margin-left: 20px;
 	position: relative;
@@ -549,8 +549,8 @@
 	background-color: transparent;
 	color: #000000;
 	text-decoration: none;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-weight: bold;
 	position: relative;
 }
@@ -600,9 +600,9 @@
 	width: 144px;
 	min-height: 48px;
 	background-color: transparent;
-	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-weight: normal;
 	margin-left: 1px;
 	margin-top: 3px;
@@ -650,9 +650,9 @@
 	width: 144px;
 	min-height: 48px;
 	background-color: transparent;
-	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-weight: normal;
 	margin-top: 3px;
 	position: relative;
@@ -700,9 +700,9 @@
 	width: 144px;
 	min-height: 48px;
 	background-color: transparent;
-	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-weight: normal;
 	margin-top: 2px;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.courses /* version checker */
 {
-	color: #0000E7;
-	background-color: #9A9046;
+	color: #0000E6;
+	background-color: #33CC22;
 }
 
 .html
@@ -519,9 +519,9 @@
 	min-height: 34px;
 	background-color: transparent;
 	color: #14988B;
-	line-height: 31px;
 	text-align: center;
 	font-size: 26px;
+	line-height: 31px;
 	font-weight: bold;
 	margin-left: 21px;
 	position: relative;
@@ -547,22 +547,35 @@
 	background-color: transparent;
 }
 
+#u440_img
+{
+	vertical-align: bottom;
+}
+
 #u408,#u408-28
 {
 	font-size: 1px;
 	line-height: 0px;
 }
 
-#u447
+#u1348
 {
 	z-index: 42;
-	width: 98px;
+	width: 113px;
 	background-color: transparent;
 }
 
-#u440_img,#u447_img
+#u1348_clip
 {
-	vertical-align: bottom;
+	overflow: hidden;
+	width: 113px;
+	height: 92px;
+}
+
+#u1348_img
+{
+	margin-right: 14px;
+	margin-bottom: -6px;
 }
 
 #u408-4,#u408-6,#u408-8,#u408-31,#u408-33,#u408-35

@@ -1,7 +1,7 @@
 .version.links /* version checker */
 {
-	color: #0000FA;
-	background-color: #1F0F84;
+	color: #0000FB;
+	background-color: #5E3922;
 }
 
 .html
@@ -518,9 +518,9 @@
 	min-height: 34px;
 	background-color: transparent;
 	color: #14988B;
-	line-height: 31px;
 	text-align: center;
 	font-size: 26px;
+	line-height: 31px;
 	font-weight: bold;
 	margin-left: 20px;
 	position: relative;

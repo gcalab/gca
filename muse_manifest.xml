@@ -1,14 +1,17 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="gcalab.github.io" resolutions="1x" timestamp="1483130217923">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="gcalab.github.io" resolutions="1x" timestamp="1483738548124">
+  <folder name="assets">
+    <file name="network.tiff" crc="3884169793" seo="true" mt="1483738320000"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4003183082"/>
-    <file name="master_a-master.css" crc="199581093" ref="links:courses:resources:lab-members:index:research:publications"/>
-    <file name="links.css" crc="4196339588" ref="links"/>
-    <file name="courses.css" crc="3885666374" ref="courses"/>
-    <file name="resources.css" crc="346413668" ref="resources"/>
-    <file name="lab-members.css" crc="4174528744" ref="lab-members"/>
-    <file name="index.css" crc="42263406" ref="index"/>
-    <file name="research.css" crc="187960283" ref="research"/>
-    <file name="publications.css" crc="3824086373" ref="publications"/>
+    <file name="site_global.css" crc="68857643"/>
+    <file name="master_a-master.css" crc="531754911" ref="links:courses:resources:lab-members:index:research:publications"/>
+    <file name="links.css" crc="4217256226" ref="links"/>
+    <file name="courses.css" crc="3862154274" ref="courses"/>
+    <file name="resources.css" crc="219941034" ref="resources"/>
+    <file name="lab-members.css" crc="129811882" ref="lab-members"/>
+    <file name="index.css" crc="81891913" ref="index"/>
+    <file name="research.css" crc="197462709" ref="research"/>
+    <file name="publications.css" crc="20906857" ref="publications"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:courses:lab-members:publications:links:resources"/>
@@ -37,7 +40,6 @@
     <file name="f1large.jpg" crc="4156875843" seo="true" ref="research"/>
     <file name="nekochas.gif" crc="3953633975" seo="true" ref="research"/>
     <file name="network.jpg" crc="3981339715" seo="true" ref="courses"/>
-    <file name="books.png" crc="4151754773" seo="true" ref="courses"/>
     <file name="caetano.jpg" crc="123096964" seo="true" ref="lab-members"/>
     <file name="mittenthal.jpg" crc="3778236501" seo="true" ref="lab-members"/>
     <file name="aziz.jpg" crc="4105347740" seo="true" ref="lab-members"/>
@@ -72,12 +74,13 @@
     <file name="pasted svg 141754x182_poster_.png" crc="398493344" ref="resources"/>
     <file name="pasted svg 250977x153.svg" crc="364711683" ref="resources"/>
     <file name="pasted svg 250977x153_poster_.png" crc="4160593966" ref="resources"/>
+    <file name="network2.jpg" crc="376495749" seo="true" ref="courses"/>
   </folder>
-  <file name="index.html" crc="241052018" seo="true" mt="1483129686828" redirect="true"/>
-  <file name="research.html" crc="3909957884" seo="true" mt="1483034449042" redirect="true"/>
-  <file name="courses.html" crc="470917826" seo="true" mt="1483034449042" redirect="true"/>
-  <file name="lab-members.html" crc="116124168" seo="true" mt="1483034449042" redirect="true"/>
-  <file name="publications.html" crc="3868294314" seo="true" mt="1483129179684" redirect="true"/>
-  <file name="links.html" crc="4033836667" seo="true" mt="1483034449042" redirect="true"/>
-  <file name="resources.html" crc="4003710715" seo="true" mt="1483034449042" redirect="true"/>
+  <file name="index.html" crc="241052018" seo="true" mt="1483738293170" redirect="true"/>
+  <file name="research.html" crc="3909957884" seo="true" mt="1483738293170" redirect="true"/>
+  <file name="courses.html" crc="4034439927" seo="true" mt="1483738509578" redirect="true"/>
+  <file name="lab-members.html" crc="116124168" seo="true" mt="1483738293170" redirect="true"/>
+  <file name="publications.html" crc="3868294314" seo="true" mt="1483738293170" redirect="true"/>
+  <file name="links.html" crc="4033836667" seo="true" mt="1483738293170" redirect="true"/>
+  <file name="resources.html" crc="4003710715" seo="true" mt="1483738293170" redirect="true"/>
 </manifest>
