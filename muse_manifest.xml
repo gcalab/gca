@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://gca.cropsci.illinois.edu/gca.html" resolutions="1x" timestamp="1483757857512">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://gca.cropsci.illinois.edu/gca.html" resolutions="1x" timestamp="1483758480579">
   <folder name="css">
     <file name="site_global.css" crc="4003183082"/>
-    <file name="master_a-master.css" crc="213069771" ref="resources:lab-members:gca:publications:research:links:courses"/>
+    <file name="master_a-master.css" crc="224278224" ref="resources:lab-members:gca:publications:research:links:courses"/>
     <file name="resources.css" crc="524869074" ref="resources"/>
     <file name="lab-members.css" crc="4252046794" ref="lab-members"/>
     <file name="index.css" crc="421596415" ref="index"/>
     <file name="gca.css" crc="71492798" ref="gca"/>
-    <file name="publications.css" crc="185386043" ref="publications"/>
+    <file name="publications.css" crc="125352368" ref="publications"/>
     <file name="research.css" crc="4148962157" ref="research"/>
     <file name="links.css" crc="315333586" ref="links"/>
     <file name="courses.css" crc="516099839" ref="courses"/>
@@ -20,7 +20,7 @@
     <file name="html5shiv.js" crc="4241844378" ref="research:courses:lab-members:publications:links:resources:gca"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3879086630" ref="index"/>
+    <file name="favicon.ico" crc="3879086630" ref="index:publications"/>
     <file name="gcalablogowhite.png" crc="4172326316" seo="true" ref="research:courses:lab-members:publications:links:resources:gca"/>
     <file name="originlife.jpg" crc="15761957" seo="true" ref="research"/>
     <file name="shapeimage_1.jpg" crc="4009317968" seo="true" ref="research"/>
@@ -72,7 +72,7 @@
   <file name="research.html" crc="4202614289" seo="true" mt="1483757837485" redirect="true"/>
   <file name="courses.html" crc="286338758" seo="true" mt="1483757837485" redirect="true"/>
   <file name="lab-members.html" crc="3827863328" seo="true" mt="1483757837485" redirect="true"/>
-  <file name="publications.html" crc="3873065306" seo="true" mt="1483757837485" redirect="true"/>
+  <file name="publications.html" crc="283460222" seo="true" mt="1483758443340" redirect="true"/>
   <file name="links.html" crc="3859599" seo="true" mt="1483757837485" redirect="true"/>
   <file name="resources.html" crc="3986857271" seo="true" mt="1483757837485" redirect="true"/>
   <file name="gca.html" crc="4197472375" seo="true" mt="1483757837485" redirect="true"/>

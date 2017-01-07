@@ -300,6 +300,12 @@
 	filter: alpha(opacity=100);
 }
 
+#u1437,#u1394,#u151,#u237,#u165,#u144,#u158,#u172
+{
+	background-color: transparent;
+	position: relative;
+}
+
 #u173
 {
 	border-style: none;
@@ -366,12 +372,6 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-#u1394,#u151,#u237,#u165,#u144,#u158,#u172,#u1437
-{
-	background-color: transparent;
-	position: relative;
 }
 
 #u321-4
