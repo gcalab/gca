@@ -235,7 +235,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gca.cropsci.illinois.edu/gca.html/images/nobai-01.png</loc>
+    <loc>http://gca.cropsci.illinois.edu/gca.html/images/nobai.jpg</loc>
+    <lastmod>2017-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gca.cropsci.illinois.edu/gca.html/images/dnakaffee.jpg</loc>
+    <lastmod>2017-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gca.cropsci.illinois.edu/gca.html/images/manet.jpg</loc>
     <lastmod>2017-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -260,24 +272,6 @@
   </url>
   <url>
     <loc>http://gca.cropsci.illinois.edu/gca.html/images/originlife-1.jpg</loc>
-    <lastmod>2017-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://gca.cropsci.illinois.edu/gca.html/images/nobai.jpg</loc>
-    <lastmod>2017-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://gca.cropsci.illinois.edu/gca.html/images/dnakaffee.jpg</loc>
-    <lastmod>2017-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://gca.cropsci.illinois.edu/gca.html/images/manet.jpg</loc>
     <lastmod>2017-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -326,12 +320,6 @@
   </url>
   <url>
     <loc>http://gca.cropsci.illinois.edu/gca.html/gca.html</loc>
-    <lastmod>2017-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://gca.cropsci.illinois.edu/gca.html/resou.html</loc>
     <lastmod>2017-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,28 +1,27 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://gca.cropsci.illinois.edu/gca.html" resolutions="1x" timestamp="1483757764589">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://gca.cropsci.illinois.edu/gca.html" resolutions="1x" timestamp="1483757857512">
   <folder name="css">
     <file name="site_global.css" crc="4003183082"/>
-    <file name="master_a-master.css" crc="253355220" ref="resources:lab-members:gca:publications:research:links:courses:resou"/>
-    <file name="resources.css" crc="4243902028" ref="resources"/>
-    <file name="lab-members.css" crc="466438699" ref="lab-members"/>
+    <file name="master_a-master.css" crc="213069771" ref="resources:lab-members:gca:publications:research:links:courses"/>
+    <file name="resources.css" crc="524869074" ref="resources"/>
+    <file name="lab-members.css" crc="4252046794" ref="lab-members"/>
     <file name="index.css" crc="421596415" ref="index"/>
-    <file name="gca.css" crc="23235589" ref="gca"/>
-    <file name="publications.css" crc="304749571" ref="publications"/>
-    <file name="research.css" crc="164110296" ref="research"/>
-    <file name="links.css" crc="4112122816" ref="links"/>
-    <file name="courses.css" crc="87683778" ref="courses"/>
-    <file name="resou.css" crc="105174631" ref="resou"/>
+    <file name="gca.css" crc="71492798" ref="gca"/>
+    <file name="publications.css" crc="185386043" ref="publications"/>
+    <file name="research.css" crc="4148962157" ref="research"/>
+    <file name="links.css" crc="315333586" ref="links"/>
+    <file name="courses.css" crc="516099839" ref="courses"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:courses:lab-members:publications:links:resources:gca:resou"/>
-    <file name="museutils.js" crc="275725342" ref="index:research:courses:lab-members:publications:links:resources:gca:resou"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:research:courses:lab-members:publications:links:resources:gca:resou"/>
-    <file name="pie.js" crc="3827607177" ref="research:courses:lab-members:publications:links:resources:gca:resou"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="research:courses:lab-members:publications:links:resources:gca:resou"/>
-    <file name="html5shiv.js" crc="4241844378" ref="research:courses:lab-members:publications:links:resources:gca:resou"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:courses:lab-members:publications:links:resources:gca"/>
+    <file name="museutils.js" crc="275725342" ref="index:research:courses:lab-members:publications:links:resources:gca"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:research:courses:lab-members:publications:links:resources:gca"/>
+    <file name="pie.js" crc="3827607177" ref="research:courses:lab-members:publications:links:resources:gca"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="research:courses:lab-members:publications:links:resources:gca"/>
+    <file name="html5shiv.js" crc="4241844378" ref="research:courses:lab-members:publications:links:resources:gca"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="3879086630" ref="index"/>
-    <file name="gcalablogowhite.png" crc="4172326316" seo="true" ref="research:courses:lab-members:publications:links:resources:gca:resou"/>
+    <file name="gcalablogowhite.png" crc="4172326316" seo="true" ref="research:courses:lab-members:publications:links:resources:gca"/>
     <file name="originlife.jpg" crc="15761957" seo="true" ref="research"/>
     <file name="shapeimage_1.jpg" crc="4009317968" seo="true" ref="research"/>
     <file name="bacteria dapi.jpg" crc="4160699131" seo="true" ref="research"/>
@@ -61,22 +60,20 @@
     <file name="image3.jpg" crc="184782121" seo="true" ref="publications"/>
     <file name="image2.jpg" crc="275283521" seo="true" ref="publications"/>
     <file name="glory.gif" crc="4146234043" seo="true" ref="links"/>
-    <file name="nobai-01.png" crc="122773897" seo="true" ref="resou"/>
+    <file name="nobai.jpg" crc="508846085" seo="true" ref="resources"/>
+    <file name="dnakaffee.jpg" crc="346565771" seo="true" ref="resources"/>
+    <file name="manet.jpg" crc="3933302808" seo="true" ref="resources"/>
     <file name="unnamed-1.jpg" crc="3900798740" seo="true" ref="gca"/>
     <file name="uiuc-01.jpg" crc="495851560" seo="true" ref="gca"/>
     <file name="gcalab.png" crc="523634027" seo="true" ref="gca"/>
     <file name="originlife-1.jpg" crc="103201645" seo="true" ref="gca"/>
-    <file name="nobai.jpg" crc="508846085" seo="true" ref="resources"/>
-    <file name="dnakaffee.jpg" crc="346565771" seo="true" ref="resources"/>
-    <file name="manet.jpg" crc="3933302808" seo="true" ref="resources"/>
   </folder>
   <file name="index.html" crc="207335354" seo="true" mt="1483757509432" redirect="true"/>
-  <file name="research.html" crc="4210177821" seo="true" mt="1483756801278" redirect="true"/>
-  <file name="courses.html" crc="93697828" seo="true" mt="1483756801278" redirect="true"/>
-  <file name="lab-members.html" crc="3903662724" seo="true" mt="1483756801278" redirect="true"/>
-  <file name="publications.html" crc="3814556093" seo="true" mt="1483756801278" redirect="true"/>
-  <file name="links.html" crc="137669616" seo="true" mt="1483756801278" redirect="true"/>
-  <file name="resources.html" crc="228608171" seo="true" mt="1483757740487" redirect="true"/>
-  <file name="gca.html" crc="4121836787" seo="true" mt="1483756801278" redirect="true"/>
-  <file name="resou.html" crc="370706241" seo="true" mt="1483756924942" redirect="true"/>
+  <file name="research.html" crc="4202614289" seo="true" mt="1483757837485" redirect="true"/>
+  <file name="courses.html" crc="286338758" seo="true" mt="1483757837485" redirect="true"/>
+  <file name="lab-members.html" crc="3827863328" seo="true" mt="1483757837485" redirect="true"/>
+  <file name="publications.html" crc="3873065306" seo="true" mt="1483757837485" redirect="true"/>
+  <file name="links.html" crc="3859599" seo="true" mt="1483757837485" redirect="true"/>
+  <file name="resources.html" crc="3986857271" seo="true" mt="1483757837485" redirect="true"/>
+  <file name="gca.html" crc="4197472375" seo="true" mt="1483757837485" redirect="true"/>
 </manifest>
