@@ -1,7 +1,7 @@
 .version.gca /* version checker */
 {
-	color: #0000EA;
-	background-color: #A02C01;
+	color: #00000F;
+	background-color: #F7FCAF;
 }
 
 .html
@@ -67,8 +67,8 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-	line-height: 13px;
 	color: #000000;
+	line-height: 13px;
 	font-size: 11px;
 	left: -1px;
 	margin-top: 1px;

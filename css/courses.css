@@ -1,7 +1,7 @@
 .version.courses /* version checker */
 {
-	color: #000003;
-	background-color: #9AEECE;
+	color: #0000F0;
+	background-color: #F05019;
 }
 
 .html
@@ -533,8 +533,8 @@
 	width: 639px;
 	min-height: 480px;
 	background-color: transparent;
-	text-decoration: none;
 	color: #000000;
+	text-decoration: none;
 	margin-left: 20px;
 	margin-top: 10px;
 	position: relative;

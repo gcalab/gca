@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://gca.cropsci.illinois.edu/gca.html" resolutions="1x" timestamp="1483745780608">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://gca.cropsci.illinois.edu/gca.html" resolutions="1x" timestamp="1483754152211">
   <folder name="css">
     <file name="site_global.css" crc="68857643"/>
-    <file name="master_a-master.css" crc="4079560864" ref="links:courses:gca:resources:lab-members:publications:research"/>
+    <file name="master_a-master.css" crc="4068618071" ref="gca:links:courses:resources:lab-members:publications:research"/>
+    <file name="gca.css" crc="267910319" ref="gca"/>
     <file name="links.css" crc="4287236145" ref="links"/>
-    <file name="courses.css" crc="60485326" ref="courses"/>
-    <file name="gca.css" crc="3936365569" ref="gca"/>
-    <file name="resources.css" crc="4120453856" ref="resources"/>
+    <file name="courses.css" crc="4042280985" ref="courses"/>
+    <file name="resources.css" crc="4189280262" ref="resources"/>
     <file name="lab-members.css" crc="3847197080" ref="lab-members"/>
     <file name="index.css" crc="72357784" ref="index"/>
-    <file name="publications.css" crc="3982793400" ref="publications"/>
+    <file name="publications.css" crc="94726123" ref="publications"/>
     <file name="research.css" crc="22735053" ref="research"/>
   </folder>
   <folder name="scripts">
@@ -22,7 +22,7 @@
   <folder name="images">
     <file name="favicon.ico" crc="3879086630" ref="index"/>
     <file name="pasted svg 44x50.svg" crc="352341995" ref="research:courses:lab-members:publications:links:resources:gca"/>
-    <file name="pasted svg 44x50_poster_.png" crc="4151268566" ref="research:gca"/>
+    <file name="pasted svg 44x50_poster_.png" crc="4151268566" ref="research"/>
     <file name="originlife.jpg" crc="15761957" seo="true" ref="research"/>
     <file name="shapeimage_1.jpg" crc="4009317968" seo="true" ref="research"/>
     <file name="bacteria dapi.jpg" crc="4160699131" seo="true" ref="research"/>
@@ -74,12 +74,12 @@
     <file name="pasted svg 369123x101_poster_.png" crc="3958671783" ref="gca"/>
     <file name="originlife-1.jpg" crc="103201645" seo="true" ref="gca"/>
   </folder>
-  <file name="index.html" crc="4239793040" seo="true" mt="1483745767387" redirect="true"/>
+  <file name="index.html" crc="4239793040" seo="true" mt="1483753809480" redirect="true"/>
   <file name="research.html" crc="211787305" seo="true" mt="1483744394918" redirect="true"/>
   <file name="courses.html" crc="295963660" seo="true" mt="1483744394918" redirect="true"/>
   <file name="lab-members.html" crc="4088088763" seo="true" mt="1483744394918" redirect="true"/>
   <file name="publications.html" crc="269514636" seo="true" mt="1483744394918" redirect="true"/>
   <file name="links.html" crc="519366464" seo="true" mt="1483744394918" redirect="true"/>
-  <file name="resources.html" crc="357011107" seo="true" mt="1483744394918" redirect="true"/>
+  <file name="resources.html" crc="321988552" seo="true" mt="1483753727891" redirect="true"/>
   <file name="gca.html" crc="387448571" seo="true" mt="1483745767378" redirect="true"/>
 </manifest>

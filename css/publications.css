@@ -1,7 +1,7 @@
 .version.publications /* version checker */
 {
-	color: #0000ED;
-	background-color: #649AB8;
+	color: #000005;
+	background-color: #A567EB;
 }
 
 .html
@@ -548,10 +548,10 @@
 	width: 639px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 19px;
-	text-decoration: none;
-	font-size: 16px;
 	color: #000000;
+	text-decoration: none;
+	line-height: 19px;
+	font-size: 16px;
 	font-weight: bold;
 	margin-left: 21px;
 	position: relative;

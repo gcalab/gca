@@ -4,13 +4,6 @@
 	position: fixed;
 }
 
-#u226
-{
-	background-color: transparent;
-	overflow: hidden;
-	position: fixed;
-}
-
 #menuu136
 {
 	border-style: none;
@@ -381,11 +374,18 @@
 	cursor: pointer;
 }
 
+#u226
+{
+	background-color: transparent;
+	overflow: hidden;
+	position: fixed;
+}
+
 #u321-4
 {
 	background-color: transparent;
-	line-height: 11px;
 	color: #7F7F7F;
+	line-height: 11px;
 	text-align: left;
 	font-size: 9px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
@@ -402,8 +402,8 @@
 #u334-26
 {
 	background-color: transparent;
-	line-height: 11px;
 	color: #7F7F7F;
+	line-height: 11px;
 	text-align: right;
 	font-size: 9px;
 	font-style: italic;
