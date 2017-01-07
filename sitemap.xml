@@ -241,6 +241,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://gca.cropsci.illinois.edu/gca.html/images/gcalablogowhite.png</loc>
+    <lastmod>2017-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gca.cropsci.illinois.edu/gca.html/images/nobai-01.png</loc>
+    <lastmod>2017-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gca.cropsci.illinois.edu/gca.html/images/dnakaffee.png</loc>
+    <lastmod>2017-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gca.cropsci.illinois.edu/gca.html/images/manet.png</loc>
+    <lastmod>2017-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gca.cropsci.illinois.edu/gca.html/images/uiuc-01.jpg</loc>
+    <lastmod>2017-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gca.cropsci.illinois.edu/gca.html/images/gcalab.png</loc>
+    <lastmod>2017-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://gca.cropsci.illinois.edu/gca.html/index.html</loc>
     <lastmod>2017-01-06</lastmod>
     <changefreq>weekly</changefreq>
