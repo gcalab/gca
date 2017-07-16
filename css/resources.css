@@ -1,7 +1,7 @@
 .version.resources /* version checker */
 {
-	color: #00001F;
-	background-color: #48DDD2;
+	color: #000009;
+	background-color: #32040D;
 }
 
 .html
@@ -13,13 +13,14 @@
 {
 	z-index: 1;
 	width: 680px;
-	min-height: 426px;
+	min-height: 425.75px;
 	-pie-box-shadow: 0px 0px 10px 3px #E5E5E5;
 	box-shadow: 0px 0px 10px rgba(0,0,0,0.1),0px 0px 10px rgba(0,0,0,0.1);
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -27,7 +28,7 @@
 #page_position_content
 {
 	margin-bottom: -15px;
-	padding-top: 5px;
+	padding-top: 59px;
 	width: 0.01px;
 }
 
@@ -501,7 +502,9 @@
 {
 	z-index: 233;
 	width: 34px;
-	margin-left: 27px;
+	top: 6px;
+	left: 50%;
+	margin-left: -313px;
 }
 
 #u391-4
@@ -511,12 +514,11 @@
 	min-height: 34px;
 	background-color: transparent;
 	color: #14988B;
+	line-height: 31px;
 	text-align: center;
 	font-size: 26px;
-	line-height: 31px;
 	font-weight: bold;
 	margin-left: 20px;
-	margin-top: 14px;
 	position: relative;
 }
 
@@ -524,7 +526,7 @@
 {
 	width: 0.01px;
 	margin-left: 26px;
-	margin-top: 11px;
+	margin-top: 10px;
 }
 
 #pu1045-4
@@ -542,8 +544,8 @@
 	background-color: transparent;
 	color: #000000;
 	text-decoration: none;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-weight: bold;
 	position: relative;
 }
@@ -644,9 +646,9 @@
 	width: 144px;
 	min-height: 48px;
 	background-color: transparent;
+	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-weight: normal;
 	position: relative;
 	margin-right: -10000px;
@@ -658,9 +660,9 @@
 	width: 144px;
 	min-height: 48px;
 	background-color: transparent;
+	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-weight: normal;
 	position: relative;
 	margin-right: -10000px;
@@ -673,9 +675,9 @@
 	width: 144px;
 	min-height: 48px;
 	background-color: transparent;
+	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-weight: normal;
 	position: relative;
 	margin-right: -10000px;

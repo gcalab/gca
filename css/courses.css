@@ -1,7 +1,7 @@
 .version.courses /* version checker */
 {
-	color: #00001E;
-	background-color: #C30EFF;
+	color: #0000F7;
+	background-color: #E354A7;
 }
 
 .html
@@ -13,13 +13,14 @@
 {
 	z-index: 1;
 	width: 680px;
-	min-height: 499px;
+	min-height: 498.94999999999993px;
 	-pie-box-shadow: 0px 0px 10px 3px #E5E5E5;
 	box-shadow: 0px 0px 10px rgba(0,0,0,0.1),0px 0px 10px rgba(0,0,0,0.1);
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -27,7 +28,7 @@
 #page_position_content
 {
 	margin-bottom: -15px;
-	padding-top: 5px;
+	padding-top: 59px;
 	width: 0.01px;
 }
 
@@ -501,7 +502,9 @@
 {
 	z-index: 134;
 	width: 34px;
-	margin-left: 27px;
+	top: 6px;
+	left: 50%;
+	margin-left: -313px;
 }
 
 #u393-4
@@ -511,12 +514,11 @@
 	min-height: 34px;
 	background-color: transparent;
 	color: #14988B;
+	line-height: 31px;
 	text-align: center;
 	font-size: 26px;
-	line-height: 31px;
 	font-weight: bold;
 	margin-left: 21px;
-	margin-top: 15px;
 	position: relative;
 }
 
